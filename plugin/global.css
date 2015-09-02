@@ -5,8 +5,7 @@ Airbrake Wordpress Plugin CSS.
 /* MENU */
 
 .toplevel_page_airbrake-wordpress div.wp-menu-image {
-	background-image: url(images/sidebar-icon.jpg);
-	background-position: -1px -33px;
+    background: url(images/sidebar-icon.jpg) -1px -33px;
 }
 
 .toplevel_page_airbrake-wordpress:hover div.wp-menu-image,
